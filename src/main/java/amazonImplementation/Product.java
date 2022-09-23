@@ -32,6 +32,11 @@ public class Product {
 		this.price = price;
 	}
 	
+	public void setPriceAndProductName(int price, String productName) {
+		this.price = price;
+		this.productName = productName;
+	}
+	
 	// Step7: here we are creating a list method to print a list of all products
 	
 	public List<String> GetProductList(){

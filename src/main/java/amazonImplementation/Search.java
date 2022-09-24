@@ -18,12 +18,16 @@ public void MyCoffeeShop() {
 	System.out.println();
 	System.out.println();
 	System.out.println();
-
+	System.out.println("***************************");
+	System.out.println("*****************************");
+	System.out.println("***********************************");
 }
 public void MyTeaShop() {
 	System.out.println();
-	System.out.println();
-	System.out.println();
+	System.out.println("99999999999999999999999");
+	System.out.println("888888888888888888888888");
+	System.out.println("99999999999999999999999");
+	System.out.println("888888888888888888888888");
 
 }
 }

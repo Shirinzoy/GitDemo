@@ -14,4 +14,16 @@ public String displayProduct(Product product) {
 	 * package create a class called "TestRunner"*/ 
 	
 }
+public void MyCoffeeShop() {
+	System.out.println();
+	System.out.println();
+	System.out.println();
+
+}
+public void MyTeaShop() {
+	System.out.println();
+	System.out.println();
+	System.out.println();
+
+}
 }

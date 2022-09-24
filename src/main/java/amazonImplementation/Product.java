@@ -31,6 +31,13 @@ public class Product {
 	public void setPrice(int price) {
 		this.price = price;
 	}
+	public void setGetMeCoffee(int price) {
+		this.price = price;
+	}
+	
+	public void setGetMeTea(int price) {
+		this.price = price;
+	}
 	
 	public void setPriceAndProductName(int price, String productName) {
 		this.price = price;
